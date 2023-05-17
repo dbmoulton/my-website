@@ -1,1 +1,29 @@
-
+{
+	"CoolPeople": [
+		{
+			"Id": "MM",
+			"Name": "Mike",
+			"NickNames": [
+				"The G Child",
+				"Chilbo Baggins"
+			]
+		},
+		{
+			"Id": "DM",
+			"Name": "David",
+			"NickNames": [
+				"L0rd 0verride",
+				"That movie podcast guy",
+				"That guy from Geeklove"
+			]
+		},
+		{
+			"Id": "IA",
+			"Name": "Immanuel",
+			"NickNames": [
+				"Zorak",
+				"Beardsmite"
+			]
+		}
+	]
+}
